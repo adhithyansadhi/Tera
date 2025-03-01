@@ -1,0 +1,17 @@
+.contribute {
+    
+    margin-top: 100px;
+    align-items: center;
+}
+.request {
+    
+}
+
+.btn_c1 {
+    background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}

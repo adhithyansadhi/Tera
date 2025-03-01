@@ -1,0 +1,48 @@
+.adddata-input {
+    padding: 10px;
+    box-sizing: border-box;text-align: left;
+    border-radius: 5px;
+    
+    width: 40%;
+}
+
+.adddata-input1 {
+    padding: 25px;
+    box-sizing: border-box;
+    text-align: left;
+    border-radius: 5px;
+    
+    width: 40%;
+ 
+    
+   
+}
+ .adddata-input:focus {
+    border: 3px solid #27d63e;
+  }
+
+  .adddata-input1:focus {
+    border: 3px solid #27d63e;
+  }
+
+.adddata-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+}
+
+.adddata-btn {
+    padding: 10px 1px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    width: 20%;
+    margin-top: 50px;
+    
+    float: right;
+}
